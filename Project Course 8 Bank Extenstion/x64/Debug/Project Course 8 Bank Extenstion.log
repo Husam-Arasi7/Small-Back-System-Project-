@@ -1,0 +1,3 @@
+﻿  ATMImprovedVersion.cpp
+C:\Users\admin\source\repos\Project Course 8 Bank Extenstion\Project Course 8 Bank Extenstion\ATMImprovedVersion.cpp(38,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Project Course 8 Bank Extenstion.vcxproj -> C:\Users\admin\source\repos\Project Course 8 Bank Extenstion\x64\Debug\Project Course 8 Bank Extenstion.exe
